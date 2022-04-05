@@ -12,7 +12,7 @@ I'm a recently graduated self-taught data scientist, analyst, and chinese lingui
 * [LinkedIn](https://www.linkedin.com/in/mabail6/)
 * [Facebook](https://www.facebook.com/mbailey6)
 * [Instagram](https://www.instagram.com/smoodazz/)
-* [Twitter] (https://twitter.com/smark_smoo)
+* [Twitter](https://twitter.com/smark_smoo)
 
 <!---
 mabail6/mabail6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
